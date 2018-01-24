@@ -1,5 +1,6 @@
 # DeepHealthMiner
 DeepHealthMiner is a Named Entity Recognition tool which is trained for extraction of health related entities, particularly drug safety related mentions (Adverse drug reaction and Indications) from patient posts in social media.
+The trained model can be downloaded from here: https://tinyurl.com/yd9mz38e
 
 How to run DeepHelthMiner
 
